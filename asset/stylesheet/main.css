@@ -180,3 +180,20 @@ opacity:.8;
 margin-bottom: 66px;
 opacity: .6;
 }
+.articles{
+    width: 80%;
+    margin: 0 auto;
+}
+.articles h2{
+    padding-top:66px 0px 66px 0px;
+}
+article img{
+    width: 220px;
+    height: 200px;
+}
+
+article{
+    text-align: center;
+    
+}
+ 
