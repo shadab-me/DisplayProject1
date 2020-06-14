@@ -152,7 +152,6 @@ padding: 90px 50px 40px 0px;
 .col-1-2{
     display: inline-block;
     width: 23%;
-    text-align: center;
 } 
 .products{
     width: 80%;
@@ -172,6 +171,12 @@ padding: 90px 50px 40px 0px;
     opacity: .7;
 
 }
-.col-1-2 img{
-    padding: 50px;
+.col-1-2 h3{
+padding: 15px 0 25px 0px;
+font-weight: 100;
+opacity:.8;
+}
+.col-1-2 p{
+margin-bottom: 66px;
+opacity: .6;
 }
