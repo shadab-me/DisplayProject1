@@ -53,6 +53,19 @@ a{
     font-weight: 200;
     color: black;
 }
+h1{
+    font-size: 48px;
+
+}
+h2{
+    font-size: 36px;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 18px;
+}
 ul{
     list-style: none;
 }
@@ -106,8 +119,59 @@ header{
   padding-bottom: 10px;
 }
  .row{
-     background-color: hsl(0, 0%, 98%);
+    background-color: hsl(0, 0%, 98%);
+
  }
-.bimg{
-    background-image: url('./images/');
+ .hero{
+     width: 80%;
+     margin: 0 auto;
+   }
+
+.col-1-1{
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+
+}
+.col-1-1 h1{
+padding: 90px 50px 40px 0px;
+}
+ 
+.col-1-1 p{
+    padding: 66px 50px 40px 0px;
+}
+.col-1-1 a{
+     color: white;
+    background-color:hsl(136, 65%, 51%);
+    padding: 10px;
+    border-radius: 35px;
+    width: 165px;
+
+
+}
+.col-1-2{
+    display: inline-block;
+    width: 23%;
+    text-align: center;
+} 
+.products{
+    width: 80%;
+    margin: 0 auto;
+
+}
+.main{
+    background-color: #f2f2f2;
+    margin-top: -148px;
+}
+.services h2{
+    padding: 66px 50px 20px 0px;
+}
+.services p{
+    padding: 0px 50px 90px 0px;
+    font-weight: 200;
+    opacity: .7;
+
+}
+.col-1-2 img{
+    padding: 50px;
 }
