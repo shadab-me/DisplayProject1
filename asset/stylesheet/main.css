@@ -196,4 +196,7 @@ article{
     text-align: center;
     
 }
- 
+ footer {
+     margin-top: 66px;
+    background-color: hsl(233, 26%, 24%); 
+ }
