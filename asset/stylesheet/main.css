@@ -197,22 +197,8 @@ article{
     
 }
  footer {
-     margin-top: 66px;
+    margin-top: 66px;
     background-color: hsl(233, 26%, 24%); 
+    margin: 0 auto;
  }
- .section1{
-     display: inline-block;
-     width: 23px;
- }
- .section2{
-     display: inline-block;
-     width: 23%;
- }
- .section3{
-     display: inline-block;
-     width: 23%;
- }
- .logo li{
-     display: inline-block;
-     width: 15%;
- }
+
